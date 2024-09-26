@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arnessmcdonald
-- 👀 I’m interested in anything Cyber Security
-- 🌱 I’m currently learning Splunk and other Blue teaming tools. Will be working on my Cysa+ cert soon.
-- 💞️ I’m looking to collaborate on anything where I can get my hands dirty (for experience that is)
+- 👀 I’m interested in learning to code.
+- 🌱 I’m currently new to coding,HTML5, and starting to learn to use CSS
+- 💞️ I'm going through Dr. Angela's Udemy course. So any tips would help!!
 - 📫 How to reach me: arnessmcdonald@gmail.com
 - ⚡ Fun fact: I have a twin...
 
